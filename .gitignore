@@ -1,0 +1,59 @@
+
+ 
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+ 
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+ 
+# Mono Auto Generated Files
+mono_crash.*
+ 
+# VS Code settings folder
+.vscode/
+ 
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+ 
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+ 
+# Environment variable files
+.env
+ 
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+ 
+# DotCover
+.idea/
+*.dotCover
+ 
+# JetBrains Rider
+.idea/
+*.sln.iml
+ 
+# Rider plugin
+.idea/
+ 
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+ 
+# Others
+_ReSharper*/
+*.resharper
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.vs/
